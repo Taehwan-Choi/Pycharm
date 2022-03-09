@@ -30,5 +30,4 @@ print(max_data)
 
 f.close()
 
-
-newlineg
+deleted

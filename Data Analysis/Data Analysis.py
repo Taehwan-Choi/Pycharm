@@ -29,3 +29,6 @@ print(max_temp)
 print(max_data)
 
 f.close()
+
+
+newlineg
